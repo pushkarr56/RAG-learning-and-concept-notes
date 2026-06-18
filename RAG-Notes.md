@@ -1,6 +1,6 @@
 # RAG-learning-and-concept-notes
 The info of RAG systems, the meaning, the use and all stuff related to RAG and concepts to understand it.
-```markdown
+
 ## RAG (Retrieval Augmented Generation)
 
 ### Problem it solves
@@ -16,6 +16,6 @@ Allows searching by meaning, not just keywords.
 Example:
 - "root canal cost" and "nerve treatment price" 
   → different words, same meaning → similar numbers → match found
-```
+
 
 
