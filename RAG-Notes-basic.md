@@ -118,7 +118,7 @@ This is the final step of the RAG pipeline — where everything comes together.
 
 The system builds a prompt that looks like this:
 
-```
+
 You are a dental clinic assistant.
 
 Here is relevant information from our clinic:
@@ -129,7 +129,7 @@ Here is relevant information from our clinic:
 Answer the patient's question based only on the information above.
 
 Patient question: How much does a root canal cost and will it hurt?
-```
+
 
 The AI then generates an answer based only on what's in those chunks.
 
